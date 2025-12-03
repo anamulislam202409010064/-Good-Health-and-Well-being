@@ -1,5 +1,3 @@
-package health;
-
 import java.util.Scanner;
 
 public class HealthyLifeTracker {
@@ -224,3 +222,4 @@ public class HealthyLifeTracker {
         System.out.println(CYAN_BOLD + "===============================================\n" + RESET);
     }
 }
+
